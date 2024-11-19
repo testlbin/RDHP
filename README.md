@@ -1,5 +1,5 @@
 # RDHP
-This is repo of paper 'Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence'.
+This is repo of ECAI2024 paper 'Robust Deep Hawkes Process under Label Noise of Both Event and Occurrence'.
 
 Comming Soon...
 
